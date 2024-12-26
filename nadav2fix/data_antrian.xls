@@ -1,0 +1,345 @@
+<table border='1'><tr>
+        <th>No</th>
+        <th>Tanggal</th>
+        <th>Waktu</th>
+        <th>Nomor Antrian</th>
+        <th>Meja</th>
+        <th>Status Antrian</th>
+        <th>Pegawai</th>
+      </tr><tr>
+            <td>1</td>
+            <td>2024-12-21</td>
+            <td>05:03:23</td>
+            <td>D - 1</td>
+            <td>desain</td>
+            <td>Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>2</td>
+            <td>2024-12-21</td>
+            <td>06:44:11</td>
+            <td>D - 3</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>3</td>
+            <td>2024-12-21</td>
+            <td>06:44:41</td>
+            <td>D - 4</td>
+            <td>desain</td>
+            <td>Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>4</td>
+            <td>2024-12-24</td>
+            <td>04:51:06</td>
+            <td>D - 5</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>5</td>
+            <td>2024-12-24</td>
+            <td>04:51:07</td>
+            <td>D - 6</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>6</td>
+            <td>2024-12-24</td>
+            <td>04:51:09</td>
+            <td>D - 7</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>7</td>
+            <td>2024-12-24</td>
+            <td>04:51:10</td>
+            <td>D - 8</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>8</td>
+            <td>2024-12-24</td>
+            <td>04:51:12</td>
+            <td>D - 9</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>9</td>
+            <td>2024-12-24</td>
+            <td>04:51:13</td>
+            <td>D - 10</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>10</td>
+            <td>2024-12-24</td>
+            <td>04:52:51</td>
+            <td>D - 1</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>11</td>
+            <td>2024-12-24</td>
+            <td>04:55:34</td>
+            <td>D - 2</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>12</td>
+            <td>2024-12-24</td>
+            <td>04:56:07</td>
+            <td>D - 3</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>13</td>
+            <td>2024-12-24</td>
+            <td>04:56:30</td>
+            <td>D - 4</td>
+            <td>desain</td>
+            <td>Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>14</td>
+            <td>2024-12-24</td>
+            <td>04:59:21</td>
+            <td>D - 5</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>15</td>
+            <td>2024-12-24</td>
+            <td>05:02:57</td>
+            <td>D - 6</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>16</td>
+            <td>2024-12-24</td>
+            <td>05:07:01</td>
+            <td>D - 7</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>17</td>
+            <td>2024-12-24</td>
+            <td>05:10:43</td>
+            <td>D - 8</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>18</td>
+            <td>2024-12-24</td>
+            <td>05:12:55</td>
+            <td>D - 9</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>19</td>
+            <td>2024-12-24</td>
+            <td>05:13:12</td>
+            <td>D - 10</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>20</td>
+            <td>2024-12-24</td>
+            <td>07:03:03</td>
+            <td>D - 11</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>21</td>
+            <td>2024-12-24</td>
+            <td>07:04:11</td>
+            <td>D - 12</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>22</td>
+            <td>2024-12-24</td>
+            <td>07:16:54</td>
+            <td>D - 13</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>23</td>
+            <td>2024-12-24</td>
+            <td>07:32:40</td>
+            <td>D - 14</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>24</td>
+            <td>2024-12-24</td>
+            <td>07:56:35</td>
+            <td>D - 15</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>25</td>
+            <td>2024-12-24</td>
+            <td>07:56:58</td>
+            <td>D - 16</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>26</td>
+            <td>2024-12-24</td>
+            <td>07:57:16</td>
+            <td>D - 17</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>27</td>
+            <td>2024-12-24</td>
+            <td>07:58:09</td>
+            <td>D - 18</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>28</td>
+            <td>2024-12-24</td>
+            <td>07:58:29</td>
+            <td>D - 19</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>29</td>
+            <td>2024-12-26</td>
+            <td>01:14:20</td>
+            <td>D - 20</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>30</td>
+            <td>2024-12-26</td>
+            <td>01:19:12</td>
+            <td>D - 21</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>31</td>
+            <td>2024-12-26</td>
+            <td>01:20:08</td>
+            <td>D - 22</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>32</td>
+            <td>2024-12-26</td>
+            <td>01:34:33</td>
+            <td>D - 1</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>33</td>
+            <td>2024-12-26</td>
+            <td>02:02:24</td>
+            <td>D - 3</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>34</td>
+            <td>2024-12-26</td>
+            <td>02:03:43</td>
+            <td>D - 4</td>
+            <td>desain</td>
+            <td>Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>35</td>
+            <td>2024-12-26</td>
+            <td>02:04:00</td>
+            <td>D - 5</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>pares</td>
+          </tr><tr>
+            <td>36</td>
+            <td>2024-12-21</td>
+            <td>05:03:35</td>
+            <td>D - 2</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>udin</td>
+          </tr><tr>
+            <td>37</td>
+            <td>2024-12-26</td>
+            <td>01:38:33</td>
+            <td>D - 2</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>udin</td>
+          </tr><tr>
+            <td>38</td>
+            <td>2024-12-26</td>
+            <td>02:08:02</td>
+            <td>D - 6</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>udin</td>
+          </tr><tr>
+            <td>39</td>
+            <td>2024-12-26</td>
+            <td>02:09:26</td>
+            <td>D - 7</td>
+            <td>desain</td>
+            <td>Belum Selesai</td>
+            <td>udin</td>
+          </tr><tr>
+            <td>40</td>
+            <td>2024-12-26</td>
+            <td>01:44:43</td>
+            <td>S - 5</td>
+            <td>siap cetak</td>
+            <td>Belum Selesai</td>
+            <td>user1</td>
+          </tr><tr>
+            <td>41</td>
+            <td>2024-12-26</td>
+            <td>01:46:33</td>
+            <td>S - 6</td>
+            <td>siap cetak</td>
+            <td>Belum Selesai</td>
+            <td>user1</td>
+          </tr><tr>
+            <td>42</td>
+            <td>2024-12-26</td>
+            <td>01:48:34</td>
+            <td>S - 7</td>
+            <td>siap cetak</td>
+            <td>Belum Selesai</td>
+            <td>user1</td>
+          </tr></table>
