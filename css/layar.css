@@ -1,0 +1,274 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.body {
+    background: rgb(237, 22, 22);
+    background: linear-gradient(135deg, #F2E8C6 100%, #DAD4B5 70%, #982B1C 40%, #800000 100%);
+}
+
+img {
+    width: 200px;
+    height: 50px;
+}
+
+marquee {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.text {
+    color: aliceblue;
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.navbar-text {
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.navbar.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background: linear-gradient(135deg, #F2E8C6 0%, #F2E8C6 40%, #982B1C 50%, #800000 60%, #DAD4B5 100%);
+}
+
+.text-center {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* CSS untuk tombol 'Panggil' */
+.btn.btn-danger {
+    background-color: #800000; /* Warna merah gelap */
+}
+
+
+.btn.btn-secondary.full-cover { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    opacity: 0; 
+    background-color: #800000; /* Warna merah gelap */
+}
+
+/* CSS untuk tombol 'Klik Jika Antrian Sudah Selesai' */
+.btn.btn-success {
+    background-color: #28a745; /* Hijau */
+    color: #fff;
+    width: 328px; /* Ukuran penuh */
+    margin-bottom: 10px; /* Spasi antar tombol */
+    margin-top: 10px; /* Spasi antar tombol */
+
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* CSS untuk tombol 'Ambil Antrian Selanjutnya' */
+.btn.btn-primary {
+    background-color: #7257a3; /* Warna ungu */
+}
+
+.row.row {
+    margin-top: -3px;
+}
+
+.row.video {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 390px;
+}
+
+.highlight {
+    background-color: #982B1C;
+    color: #F2E8C6;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #800000;
+    padding: 10px;
+    text-transform: uppercase;
+    animation: glow 2s infinite;
+}
+
+.highlight2 {
+    background-color: #7257A3;
+    color: #F2E8C6;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #4A3571;
+    padding: 10px;
+    text-transform: uppercase;
+    animation: glow2 2s infinite;
+}
+
+@keyframes glow2 {
+    0% {
+        box-shadow: 0 0 5px #7257A3;
+    }
+    50% {
+        box-shadow: 0 0 20px #7257A3;
+    }
+    100% {
+        box-shadow: 0 0 5px #7257A3;
+    }
+}
+
+@keyframes glow {
+    0% {
+        box-shadow: 0 0 10px #982B1C;
+    }
+    50% {
+        box-shadow: 0 0 20px #DAD4B5;
+    }
+    100% {
+        box-shadow: 0 0 10px #982B1C;
+    }
+}
+
+.row.cetak {
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.card-header.bpjs {
+    background-color: #800000;
+    color: aliceblue;
+    font-weight: bold;
+    height: 42px;
+}
+
+.card-header.umum {
+    background-color: #7257a3;
+    color: aliceblue;
+    font-weight: bold;
+    height: 42px;
+}
+
+.card-body {
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-body-video {
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+.card-body.bpjs {
+    position: relative;
+    background-image: url(../img/fixbgdesain.gif);
+    object-fit: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .full-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10; /* Pastikan ini berada di atas elemen lainnya */
+    text-indent: -9999px; /* Sembunyikan teks agar tidak terlihat */
+    background-color: transparent; /* Pastikan latar belakang transparan */
+    cursor: pointer;
+  }
+  
+
+.card-body.umum {
+    background-image: url(../img/fixbgdesain2.gif);
+    object-fit: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-body h1 {
+    font-size: 124px;
+    font-weight: bolder;
+}
+
+.card-body h2 {
+    font-size: 90px;
+    font-weight: bolder;
+}
+
+.card-body h3 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.card-body h5 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.card.video {
+    height: 377px;
+}
+
+@media (max-width: 768px) {
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    .card.video {
+        height: 250px;
+    }
+
+    .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 10px;
+    }
+
+    .row {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 476px) {
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    .card.video {
+        height: 250px;
+    }
+
+    .col.col-sm-4 {
+        margin-top: 10px;
+    }
+
+    .row.row {
+        margin-top: 10px;
+    }
+
+    .b1 {
+        margin-top: 10px;
+    }
+
+    .b2.col-sm-4 {
+        margin-top: 250px;
+    }
+
+    .u2.col-sm-4 {
+        margin-top: 10px;
+    }
+}
